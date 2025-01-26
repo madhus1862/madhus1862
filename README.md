@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Database performance with MongoDB and PostgreSQL.**
 
-- 👯 I’m looking to collaborate on **collaborate Full Stack Development projects that make a meaningful impact.**
+- 👯 I’m looking to collaborate on ** Full Stack Development projects that make a meaningful impact.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhus1862](https://github.com/madhus1862)
 
